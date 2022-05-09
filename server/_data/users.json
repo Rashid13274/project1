@@ -1,0 +1,14 @@
+[
+    {  "_id":  "6278da584418bc8c5da4e314"  ,
+        "name": "amber", 
+        "email": "abc1234@gmail.com",  
+        "role": "user",  
+        "password": "abc@123"
+       },
+       
+       {  "_id":"6278dac7e88cf08725c83c72" , 
+        "name": "mark",
+        "email": "abc113@gmail.com", 
+        "role": "user",
+        "password": "abcd@1234" }
+]
